@@ -36,5 +36,5 @@ Deutsch — B1, чтение докуметации
 
 📱 Контакты
 
-- telegram t.me/@kesharyt
+- telegram @kesharyt
 - email v_garkusha@interntet.ru
